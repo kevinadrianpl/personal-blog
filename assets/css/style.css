@@ -29,7 +29,7 @@
 }
 
 html[data-theme='dark'] {
-  --bg-color: #010408;
+  --bg-color: #1d2021;
   --secondary-bg-color: rgb(56, 56, 56);
   --heading-color: #c9d1d9;
   --body-color: rgb(169, 169, 179);
@@ -54,7 +54,7 @@ html {
 
 body {
   color: var(--body-color);
-  font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
+  font-family: "Fira Mono", monospace;
   font-size: 1.5rem;
   width: 100%;
   margin: 0 auto;

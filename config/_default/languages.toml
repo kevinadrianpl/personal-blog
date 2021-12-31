@@ -3,11 +3,3 @@ title = "HELLO, FRIEND"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
-
-[nl]
-title = "HALLO, VRIEND"
-description = "De persoonlijke homepage van Kevin Adrian Pillay"
-contentDir = "content/dutch" 
-weight = 2
-LanguageDirection = "ltr" 
-LanguageName = "NL"

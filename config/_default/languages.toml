@@ -4,10 +4,10 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
-title = "فلانة الفلانية"
-description = "أنا أعمل كمطورة ويب في شركة س"
-contentDir = "content/arabic" 
+[nl]
+title = "HALLO, VRIEND"
+description = "De persoonlijke homepage van Kevin Adrian Pillay"
+contentDir = "content/dutch" 
 weight = 2
-LanguageDirection = "rtl" 
-LanguageName = "AR"
+LanguageDirection = "ltr" 
+LanguageName = "NL"

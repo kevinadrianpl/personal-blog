@@ -31,8 +31,9 @@ The blog owner is not responsible for the content in comments.
 This blog disclaimer is subject to change at anytime.
 
 # Information
-
+""
 Name:       Kevin Adrian Pillay
 Location:   South Africa
 E-Mail:     kevin@kevinadrian.dev
 Website:    www.kevinadrian.dev
+""

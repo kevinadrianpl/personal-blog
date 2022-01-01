@@ -1,7 +1,7 @@
 ---
-author: Hugo Authors
+author: Kevin Adrian Pillay
 title: Contact
-date: 2019-03-08
+date: 2022-01-01
 description: Contact Page
 contact: true
 ---

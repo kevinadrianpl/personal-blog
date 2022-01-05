@@ -35,4 +35,3 @@ This blog disclaimer is subject to change at anytime.
 - Name:       Kevin Adrian Pillay
 - Location:   South Africa
 - Email:      kevin@kevinadrian.dev
-- Website:    www.kevinadrian.dev

@@ -1,13 +1,10 @@
 +++
-title = "About"
+title = "whoami"
 description = "Kevin Adrian Pillay, the savior of all mankind"
 date = "2019-02-28"
 aliases = ["about-us", "about", "contact"]
 author = "Kevin Adrian Pillay"
 +++
-
-
-# whoami
 
 I'm Kevin, I make things on the internet and occasionally off of it. I'm an experienced System Administrator and aspiring cybersecurity proffessional/researcher. I sometimes play video games, and work on different tech projects to enchance my skills. I believe that deeply understanding the underlying ststems you use (browsers, operating systems, the kernal, network layers, databses, HTTP, or whatever else that you may be running on top of in your business or personal life) is essential if you want to do technically innovative work and to be able to solve hard problems. 
 

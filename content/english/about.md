@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Us"
 description = "Kevin Adrian Pillay, the savior of all mankind"
 date = "2019-02-28"
 aliases = ["about-us", "about", "contact"]

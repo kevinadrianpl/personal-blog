@@ -5,7 +5,7 @@ description = """
 The personal homepage of Kevin Adrian Pillay
 Experienced System Administrator, Cybersecurity Proffesional and Developer
 """
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.webp"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]

@@ -5,11 +5,10 @@ date: 2022-01-01
 description: A brief guide to how to setup series part 3
 series:
   - series-setup
-...
 tags = [
-"thumbnail",
+    "thumbnail",
 ]
-thumbnail= "images/projects/code.jpg"
+thumbnail= "images/landscape.jpg"
 ---
 
 In this third part of the series we'll show you where to find the full series

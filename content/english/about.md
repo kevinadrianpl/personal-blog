@@ -6,6 +6,7 @@ aliases = ["about-us", "about", "contact"]
 author = "Kevin Adrian Pillay"
 +++
 
+
 ## So who am I?
 
 I'm from South Africa and I make things on the internet and occasionally off of it. I'm an experienced System Administrator and aspiring cybersecurity professional/researcher. 
@@ -13,6 +14,7 @@ I'm from South Africa and I make things on the internet and occasionally off of 
 I sometimes play video games, and work on different tech projects to enhance my skills. 
 
 I believe that deeply understanding the underlying systems you use (browsers, operating systems, the kernel, network layers, databases, HTTP, or whatever else that you may be running on top of in your business or personal life) is essential if you want to do technically innovative work and to be able to solve real world problems.
+
 
 ## What is this site about?
 
@@ -23,6 +25,7 @@ I research things I find interesting, then document my research with a public bl
 Other than that, this site is my personal portfolio. I will be using it to 'store' a few of my accomplishments and to randomly post about my passion for the infosec world.
 
 I believe that blogs are a two way conversation, so I welcome emails and comments – as long as they're on topic and civil, more or less.
+
 
 ## Getting in touch with me
 

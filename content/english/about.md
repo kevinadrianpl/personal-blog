@@ -14,4 +14,4 @@ I mostly have this blog for selfish reasons. I needed a way to keep track of dev
 
 ## Getting in touch with me
 
-I’m on Twitter at https://twitter.com/kevinadrianpl/ and my email address is kevin@kevinadrian.dev. I love hearing from people.
+I’m on Twitter at [Twitter] https://twitter.com/kevinadrianpl/ and my email address is kevin@kevinadrian.dev. You can also check out my [GitHub] https://github.com/kevinadrianpl/ if you want to see what projects I've been working on. I love hearing from people.

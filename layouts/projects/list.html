@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  {{ range $index, $elemen:= .Site.Data.portfolio.portfolioitems }}
+  {{ range $index, $elemen:= .Site.Data.projects.projectsitems }}
     <div
       class="post {{ with .Site.Params.doNotLoadAnimations }}
         .
@@ -15,7 +15,7 @@
           <h2>{{ .title }}</h2>
         </div>
 
-        {{ range $i, $p := .portfolioitem }}
+        {{ range $i, $p := .projectsitem }}
           <div class="box-wrapper">
             {{ if .image }}
               <div

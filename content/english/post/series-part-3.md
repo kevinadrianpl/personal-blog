@@ -7,8 +7,6 @@ tags = [
     "thumbnail",
 ]
 thumbnail= "images/landscape.jpg"
-series:
-  - series-setup
 +++
 
 In this third part of the series we'll show you where to find the full series

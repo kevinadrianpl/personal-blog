@@ -56,15 +56,15 @@ url = "https://github.com/kevinadrianpl/"
 
 [[socialIcons]]
 icon = "fab fa-twitter"
-title = "twitter"
+title = "Twitter"
 url = "https://www.twitter.com/kevinadrianpl/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
-title = "e-mail"
+title = "Email"
 url = "mailto:kevin@kevinadrian.dev"
 
 [[socialIcons]]
 icon = "fab fa-hackerrank"
-title = "tryhackme"
+title = "TryHackMe"
 url = "https://tryhackme.com/p/kevinadrianpl"

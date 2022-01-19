@@ -22,12 +22,6 @@
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-  name = "Contact"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
-
   [[footer]]
   name = "Legal"
   weight = 1

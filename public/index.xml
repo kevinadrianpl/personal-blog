@@ -3,8 +3,8 @@
   <channel>
     <title>My New Hugo Site</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Personal Blog</description>
+    <generator>Kevin Adrian Pillay</generator>
+    <language>en-us</language><atom:link href="http://kevinadrian.dev" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

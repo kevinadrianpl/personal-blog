@@ -24,6 +24,6 @@ I believe that blogs are a two way conversation, so I welcome emails and comment
 
 ## Getting in touch with me
 
-I’m on Twitter at [Twitter] (https://twitter.com/kevinadrianpl/) and my email address is kevin@kevinadrian.dev. 
+I’m on Twitter at [Twitter](https://twitter.com/kevinadrianpl) and my email address is kevin@kevinadrian.dev. 
 
-You can also check out my [GitHub] (https://github.com/kevinadrianpl/) if you want to see what projects I'm busy working on. I love hearing from people.
+You can also check out my [GitHub](https://github.com/kevinadrianpl) if you want to see what projects I'm busy working on. I love hearing from people.

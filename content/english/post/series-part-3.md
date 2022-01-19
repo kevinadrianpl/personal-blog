@@ -15,3 +15,11 @@ When you created a series, you'll probably want to link to the full set of blogp
 In this example we used `series-setup` as our series name.
 
 This means we can now go to `http://localhost:1313/series/series-setup/` to see all the blog posts of this serie.
+
++++
+...
+tags = [
+"thumbnail",
+]
+thumbnail= "images/projects/code.jpg"
++++

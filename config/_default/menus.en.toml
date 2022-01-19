@@ -11,10 +11,10 @@
   url = "/post/"
 
   [[main]]
-  name = "Portfolio"
+  name = "Projects"
   weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+  identifier = "projects"
+  url = "/projects/"
 
   [[main]]
   name = "About"

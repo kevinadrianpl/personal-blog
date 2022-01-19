@@ -1,10 +1,12 @@
 +++
-title = "Who am I?"
+title = ""
 description = "Kevin Adrian Pillay, the savior of all mankind"
 date = "2022-01-18"
 aliases = ["about-us", "about", "contact"]
 author = "Kevin Adrian Pillay"
 +++
+
+## So who am I?
 
 I'm from South Africa and I make things on the internet and occasionally off of it. I'm an experienced System Administrator and aspiring cybersecurity professional/researcher. 
 

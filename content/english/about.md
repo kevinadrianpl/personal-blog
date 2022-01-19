@@ -14,16 +14,18 @@ I sometimes play video games, and work on different tech projects to enhance my 
 
 I believe that deeply understanding the underlying systems you use (browsers, operating systems, the kernel, network layers, databases, HTTP, or whatever else that you may be running on top of in your business or personal life) is essential if you want to do technically innovative work and to be able to solve real world problems.
 
-## Why do I blog?
+## What is this site about?
 
 I mostly have this blog for selfish reasons. I needed a way to keep track of development over time – whatever I am thinking about or working on such as different projects. 
 
 I research things I find interesting, then document my research with a public blog post, which I can easily find and refer to later when needed. Hopefully other people will find these posts helpful, relevant, or interesting. 
 
+Other than that, this site is my personal portfolio. I will be using it to 'store' a few of my accomplishments and to randomly post about my passion for the infosec world.
+
 I believe that blogs are a two way conversation, so I welcome emails and comments – as long as they're on topic and civil, more or less.
 
 ## Getting in touch with me
 
-I’m on Twitter at [Twitter](https://twitter.com/kevinadrianpl) and my email address is kevin@kevinadrian.dev. 
+I’m on Twitter at [Twitter](https://twitter.com/kevinadrianpl) and my email address is kevin@kevinadrian.dev. I love hearing from people.
 
-You can also check out my [GitHub](https://github.com/kevinadrianpl) if you want to see what projects I'm busy working on. I love hearing from people.
+You can also check out my [GitHub](https://github.com/kevinadrianpl) if you want to see what projects I'm busy working on. 

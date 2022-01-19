@@ -1,13 +1,11 @@
-+++
+---
 author: Hugo Authors
 title: Series Part 3
 date: 2022-01-01
-description: A brief guide to how to setup series part 3
-tags = [
-    "thumbnail",
-]
-thumbnail= "images/landscape.jpg"
-+++
+description: A brief guide to how to setup series part 2
+series:
+  - series-setup
+---
 
 In this third part of the series we'll show you where to find the full series
 

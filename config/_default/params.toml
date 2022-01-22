@@ -61,7 +61,7 @@ title = "GitHub"
 url = "https://github.com/kevinadrianpl/"
 
 [[socialIcons]]
-icon = "fal fa-user-secret"
+icon = "fad fa-user-secret"
 title = "TryHackMe"
 url = "https://tryhackme.com/p/kevinadrianpl"
 
@@ -71,6 +71,6 @@ title = "Email"
 url = "mailto:kevin@kevinadrian.dev"
 
 [[socialIcons]]
-icon = "<fad fa-mug-hot"
+icon = "fad fa-mug-hot"
 title = "Donate"
 url = "https://www.buymeacoffee.com/kevinadrianpl"

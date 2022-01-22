@@ -66,11 +66,11 @@ title = "TryHackMe"
 url = "https://tryhackme.com/p/kevinadrianpl"
 
 [[socialIcons]]
-icon = "fas fa-envelope"
-title = "Email"
-url = "mailto:kevin@kevinadrian.dev"
-
-[[socialIcons]]
 icon = "fas fa-coffee"
 title = "Donate"
 url = "https://www.buymeacoffee.com/kevinadrianpl"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:kevin@kevinadrian.dev"

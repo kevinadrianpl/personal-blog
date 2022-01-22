@@ -19,7 +19,7 @@ I believe that deeply understanding the underlying systems you use (browsers, op
 ## Why do I blog?
 
 I mostly have this blog for selfish reasons. I needed a way to keep track of development over time – whatever I am thinking about or working on such as different technical projects. Another reason is to sharpen my skills on documentation since IT revolves around it. 
-I've learnt that writing can improve one's thought process through research and documentation and helps reinforce one's knowledge over time. 
+I've learnt that writing can improve one's thought process through research and documentation helps reinforce one's knowledge over time. 
 
 So I chose to start this blog as an intellectual journal of sorts, to become more disciplined and grow to be a better security and IT proffessional. Documentation is an important skill. 
 

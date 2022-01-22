@@ -71,6 +71,6 @@ title = "Email"
 url = "mailto:kevin@kevinadrian.dev"
 
 [[socialIcons]]
-icon = "fad fa-coffee"
+icon = "fas fa-coffee"
 title = "Donate"
 url = "https://www.buymeacoffee.com/kevinadrianpl"

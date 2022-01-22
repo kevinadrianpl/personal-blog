@@ -1,4 +1,4 @@
-## personal_blog
+## Personal Blog
 
 This is my personal blog/portfolio website.
 

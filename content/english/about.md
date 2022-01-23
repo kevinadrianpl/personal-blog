@@ -20,8 +20,9 @@ I believe that deeply understanding the underlying systems you use (browsers, op
 
 I mostly have this blog for selfish reasons. I needed a way to keep track of development over time – whatever I am thinking about or working on such as different technical projects. Another reason is to sharpen my skills on documentation since IT revolves around it. 
 I've learnt that writing can improve one's thought process through research and documentation helps reinforce one's knowledge over time. 
+Documentation is an important skill. 
 
-So I chose to start this blog as an intellectual journal of sorts, to become more disciplined and grow to be a better security and IT proffessional. Documentation is an important skill. 
+So I chose to start this blog as an intellectual journal of sorts, to become more disciplined and grow to be a better security and IT proffessional. 
 
 I research things I find interesting, then document my research with a public blog post, which I can easily find and refer to later when needed. Hopefully other people will find these posts helpful, relevant, or interesting. 
 

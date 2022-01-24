@@ -27,7 +27,11 @@ Personally, I use and recommend Bitwarden because their free tier is great consi
 The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 The Personal Premium Plan costs $10/year which is a great deal as well (I am not sponsored by them :D; I just like their platform).
 
+
+
 ![image](https://user-images.githubusercontent.com/30116824/150829274-22190f00-1cec-4a97-ba1a-6d5aa226e487.png)
+
+
 
 You should always try to avoid reusing passwords which can be one of the easiest methods hackers have of gaining access to your other accounts, by obtaining one of your passwords using brute force attacks, they may use that password on other accounts to force their way in. 
 It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. 

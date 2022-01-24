@@ -3,7 +3,6 @@ author = "Kevin Adrian Pillay"
 title = "Password Security"
 date = "2021-12-31"
 description = "The importance of secure passwords"
-thumbnail= "images/passwords.png"
 tags = [
     "passwords",
     "security",

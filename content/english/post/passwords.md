@@ -3,7 +3,6 @@ author = "Kevin Adrian Pillay"
 title = "Password Security"
 date = "2021-12-31"
 description = "The importance of secure passwords"
-thumbnail= "images/passwords.jpg"
 tags = [
     "passwords",
     "security",
@@ -24,7 +23,7 @@ There are many different managers such as 1Password, LastPass or Bitwarden that 
 
 Personally, I use and recommend Bitwarden because their free tier is great considering the amount of features it has. The only drawback is that the client desktop version is very basic, but it still works perfectly fine. The Personal Premium Plan costs $10/year which is not a good deal as well (I am not sponsored by them; I just like their platform).
 
-![image](https://user-images.githubusercontent.com/30116824/150772525-f6a02c4a-c227-40d4-a6d5-731eeafcafb1.png)
+![image](https://user-images.githubusercontent.com/30116824/150773576-679d026b-a1bb-4e95-8976-eaf238ef9cf0.png)
 
 You should always try to avoid reusing passwords which can be one of the easiest methods hackers have of gaining access to your other accounts, by obtaining one of your passwords using brute force attacks, they may use that password on other accounts to force their way in. 
 It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. 

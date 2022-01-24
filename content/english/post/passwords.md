@@ -21,7 +21,8 @@ A strong password will ensure that your device is more protected against bad act
 You should consider using a password manager because that is one of the best defences against breaches. 
 There are many different managers such as 1Password, LastPass or Bitwarden that will help remember your passwords for you instead of remembering hundreds of different passwords. It will help you to remember all your passwords and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in a known hack or breach in the past or future.
 
-Personally, I use and recommend Bitwarden because their free tier is great considering the amount of features it has. The only drawback is that the client desktop version is very basic, but it still works perfectly fine. The Personal Premium Plan costs $10/year which is not a good deal as well (I am not sponsored by them; I just like their platform).
+Personally, I use and recommend Bitwarden because their free tier is great considering the amount of features it has. The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
+The Personal Premium Plan costs $10/year which is a great deal as well (I am not sponsored by them :D; I just like their platform).
 
 ![image](https://user-images.githubusercontent.com/30116824/150776010-33e99eb9-ec6e-4f6c-b667-a98b21b40596.png)
 

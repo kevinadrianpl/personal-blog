@@ -7,6 +7,10 @@ tags = [
     "passwords",
     "security",
 ]
+]
+categories = [
+    "Passwords",
+]
 +++
 
 # The importance of secure passwords

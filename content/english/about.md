@@ -41,7 +41,4 @@ You can also message or follow me on [LinkedIn](https://www.linkedin.com/in/kevi
 
 Check out my [GitHub](https://github.com/kevinadrianpl) if you want to see what projects and tools I have been busy working on. 
 
-<a href="https://www.buymeacoffee.com/kevinadrianpl" target="_blank"><img src="https://giphy.com/embed/kmIZ4lx2ZHpr5jY0W4" alt="Buy Me A Coffee" style="height: 270 !important;width: 400 !important;" ></a>
-
-
-<iframe src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-im-on-kmIZ4lx2ZHpr5jY0W4">via GIPHY</a></p>
+<a href="https://www.buymeacoffee.com/kevinadrianpl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 197px !important;" ></a>

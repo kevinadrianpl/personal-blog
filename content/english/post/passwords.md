@@ -21,7 +21,8 @@ Picking a good password is easier than most people think. You need to think abou
 Secondly, can your password be dictionary cracked? Meaning that you want to choose a password that cannot be easily found in a word list or dictionary which is a list of the most commonly used words and passwords. For example, the password 'password123' would take seconds to crack, the password 'mywebsitepassword', even though this is a long password it can easily be found in a dictionary and takes seconds to crack as well. 
 
 An example of a good password would be something like 'h0rs3st@ble!$'. This would take too long to crack for bad actors to even try, which is great. 
-You should always maintain strong passwords for all your devices and accounts. Never re-use passwords because if one account were to get hacked, they would use that password on your other accounts and may get lucky. Re-using passwords is just as bad as a bad password. 
+You should always maintain strong passwords for all your devices and accounts. Always try to avoid re-using passwords which can be one of the easiest methods bad actors have of gaining access to your other accounts. 
+If one account were to get hacked, they would use that password on your other accounts and may get lucky. It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. Re-using passwords is just as bad as a bad password. 
 
 ## Password Managers
 
@@ -33,10 +34,6 @@ There are many amazing paid password managers but if you would prefer a free man
 The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 
 ![image](https://user-images.githubusercontent.com/30116824/150977901-ce832df3-2ab4-4eef-8531-67d7d24e0293.png)
-
-You should always try to avoid reusing passwords which can be one of the easiest methods hackers have of gaining access to your other accounts, by obtaining one of your passwords using brute force attacks, they may use that password on other accounts to force their way in. 
-It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. 
-
 
 ## Here are a few guidelines for creating strong passwords to keep your information secure
 

@@ -2,8 +2,8 @@ title = "I'm Kevin Adrian Pillay"
 author = "Kevin Adrian Pillay"
 #copyright = "2020-2021"
 description = """
-The personal homepage of Kevin Adrian Pillay
-Experienced System Administrator, Cybersecurity Proffesional and Developer
+The homepage of Kevin Adrian Pillay
+System Administrator, Cybersecurity Profesional and Developer
 """
 profilePicture = "images/profile.webp"
 keywords = ""
@@ -65,11 +65,6 @@ url = "https://github.com/kevinadrianpl/"
 icon = "fas fa-user-secret"
 title = "TryHackMe"
 url = "https://tryhackme.com/p/kevinadrianpl"
-
-[[socialIcons]]
-icon = "fas fa-coffee"
-title = "Donate"
-url = "https://www.buymeacoffee.com/kevinadrianpl"
 
 [[socialIcons]]
 icon = "fas fa-envelope"

@@ -7,7 +7,6 @@ tags = [
     "passwords",
     "security",
 ]
-]
 categories = [
     "Passwords",
 ]

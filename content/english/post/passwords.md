@@ -11,8 +11,6 @@ categories = [
 ]
 +++
 
-# The importance of secure passwords
-
 Password security is an important subject to consider and the first line of defence against unauthorized access to your personal information. Strong passwords ensure that your device is protected against attackers and malicious applications. 
 
 ## So how do you choose a good password?

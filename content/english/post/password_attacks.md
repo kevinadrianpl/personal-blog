@@ -12,8 +12,8 @@ categories = [
 ]
 +++
 
-In the digital world, password attacks have always been and will continue to be a common way for threat actors to gain access to your data. No matter how many methods we try to
-make a good password, many users will continue to use the same basic passwords in multiple places simply because it's easier to remember. 
+In the digital world, password attacks have always been and will continue to be a common way for threat actors to gain access to your data. 
+No matter how many methods we try to make a good password, many users will continue to use the same basic passwords in multiple places simply because it's easier to remember. 
 
 Let’s explore exactly how these password attacks work, as well as the most effective ways to reduce the risk of getting compromised or exposed on the internet.
 
@@ -29,8 +29,8 @@ While the end goal of any password attack is to crack a user’s password to gai
   remain popular favourites among end-users, unfortunately.
   
 - Brute-Force Attacks – Unlike plaintext passwords in dictionary attacks, brute-force attacks use trial and error even more randomly, working through every combination of 
-  letters, numbers, and symbols. These attacks benefit from the fact that most users keep their passwords short. The shorter the password, the faster these attacks 
-  can work. These attacks generally aren't hard to do and can be done with penetration software. 
+  letters, numbers, and symbols. These attacks benefit from the fact that most users keep their passwords short. 
+  The shorter the password, the faster these attacks can work. These attacks generally aren't hard to do and can be done with penetration software. 
   Popular tools such as [hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/) are commonly used by both the good guys and bad.
 
 - Hybrid Attacks – This is another form of password guessing, these attacks combine the power of dictionary and brute-force attacks, covering more possible combinations.
@@ -68,5 +68,6 @@ While the end goal of any password attack is to crack a user’s password to gai
 
 ### Finally, 
 
-Your security posture and password policies should be done a regular basis to remain agile and refine security strategies as new techniques emerge. For example, MFA has only 
-become mainstream in the last few years. With the right measures in place, passwords can remain one of the best and most important lines of defence for your life. 
+Your security posture and password policies should be done a regular basis to remain agile and refine security strategies as new techniques emerge. 
+For example, MFA has only become mainstream in the last few years. 
+With the right measures in place, passwords can remain one of the best and most important lines of defence for your life. 

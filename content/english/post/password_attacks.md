@@ -1,7 +1,7 @@
 +++
 author = "Kevin Adrian Pillay"
 title = "How to defend yourself against password attacks"
-date = "2021-12-31"
+date = "2021-12-10"
 tags = [
     "passwords",
     "security",

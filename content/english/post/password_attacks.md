@@ -2,7 +2,6 @@
 author = "Kevin Adrian Pillay"
 title = "How to defend yourself against password attacks"
 date = "2021-12-31"
-description = "The importance of secure passwords"
 tags = [
     "passwords",
     "security",

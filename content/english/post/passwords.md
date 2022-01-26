@@ -1,6 +1,6 @@
 +++
 author = "Kevin Adrian Pillay"
-title = "Password Security"
+title = "The importance of secure passwords"
 date = "2021-12-31"
 description = "The importance of secure passwords"
 tags = [
@@ -14,8 +14,7 @@ categories = [
 
 # The importance of secure passwords
 
-Password security is an important subject to consider and provides the first line of defence against unauthorized access to your computer and personal information. 
-A strong password will ensure that your device is more protected against bad actors and malicious applications. 
+Password security is an important subject to consider and the first line of defence against unauthorized access to your personal information. Strong passwords ensure that your device is protected against attackers and malicious applications. 
 
 ## So how do you choose a good password?
 

@@ -31,7 +31,7 @@ While the end goal of any password attack is to crack a user’s password to gai
 - Brute-Force Attacks – Unlike plaintext passwords in dictionary attacks, brute-force attacks use trial and error even more randomly, working through every combination of 
   letters, numbers, and symbols. These attacks benefit from the fact that most users keep their passwords short. 
   The shorter the password, the faster these attacks can work. These attacks generally aren't hard to do and can be done with penetration software. 
-  Popular tools such as [hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/) are commonly used by both the good guys and bad.
+  Popular tools such as [hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/) are used by security researchers and threat actors.
 
 - Hybrid Attacks – This is form of password guessing, these attacks combine the power of dictionaries, wordlists and brute-force attacks, covering more possible combinations.
 
@@ -66,8 +66,7 @@ While the end goal of any password attack is to crack a user’s password to gai
   as well as new ways attackers can steal your credentials. Learn about ways to avoid being susceptible to phishing attacks, for example, learn how to better spot suspicious 
   emails and links.
 
-### Finally, 
+### Lastly, 
 
-Your security posture and password policies should be done a regular basis to remain agile and refine security strategies as new techniques emerge. 
-For example, MFA has only become mainstream in the last few years. 
-With the right measures in place, passwords can remain one of the best and most important lines of defence for your life. 
+Your security and password policies should be done a regular basis to remain agile and refine security strategies as new malicious techniques emerge. 
+For example, MFA has only become mainstream in the last few years. With the right measures in place, passwords can remain one of the best and most important lines of defence for your life. 

@@ -15,7 +15,7 @@ categories = [
 In the digital world, password attacks have always been and will continue to be a common way for threat actors to gain access to your data. 
 No matter how many methods we try to make a good password, many users will continue to use the same basic passwords in multiple places simply because it's easier to remember. 
 
-Let’s explore exactly how these password attacks work, as well as the most effective ways to reduce the risk of getting compromised or exposed on the internet.
+Let’s explore how these password attacks work, as well as the most effective ways to reduce the risk of getting compromised or exposed on the internet.
 
 ## What are the different types of password attacks?
 
@@ -33,7 +33,7 @@ While the end goal of any password attack is to crack a user’s password to gai
   The shorter the password, the faster these attacks can work. These attacks generally aren't hard to do and can be done with penetration software. 
   Popular tools such as [hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/) are commonly used by both the good guys and bad.
 
-- Hybrid Attacks – This is another form of password guessing, these attacks combine the power of dictionary and brute-force attacks, covering more possible combinations.
+- Hybrid Attacks – This is form of password guessing, these attacks combine the power of dictionary and brute-force attacks, covering more possible combinations.
 
 - Password Spraying – This s also called credential stuffing. Password spraying uses credentials stolen through social engineering attacks such as phishing and successful 
   results from dictionary, brute-force, or hybrid attacks. Taking a password that is known to work for at least one system or application, an attacker tries it across an 

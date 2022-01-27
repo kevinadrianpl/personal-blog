@@ -33,7 +33,7 @@ While the end goal of any password attack is to crack a user’s password to gai
   The shorter the password, the faster these attacks can work. These attacks generally aren't hard to do and can be done with penetration software. 
   Popular tools such as [hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/) are commonly used by both the good guys and bad.
 
-- Hybrid Attacks – This is form of password guessing, these attacks combine the power of dictionary and brute-force attacks, covering more possible combinations.
+- Hybrid Attacks – This is form of password guessing, these attacks combine the power of dictionaries, wordlists and brute-force attacks, covering more possible combinations.
 
 - Password Spraying – This s also called credential stuffing. Password spraying uses credentials stolen through social engineering attacks such as phishing and successful 
   results from dictionary, brute-force, or hybrid attacks. Taking a password that is known to work for at least one system or application, an attacker tries it across an 

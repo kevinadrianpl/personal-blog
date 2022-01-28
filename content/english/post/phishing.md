@@ -1,6 +1,6 @@
 +++
 author = "Kevin Adrian Pillay"
-title = "How to prevent phishing attacks"
+title = "Preventing phishing attacks"
 date = "2021-12-31"
 tags = [
     "phishing",

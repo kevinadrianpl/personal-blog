@@ -52,7 +52,7 @@ Using social engineering pen testing services and tools allows you to find out w
 No matter the outcome of your pen test, it is always worthwhile to educate your users. Teach them ways to identify phishing attempts such as odd URLs and opening links or attachments, particularly those that come unprompted or from unusual sources. 
 Follow best practices, like going directly to a website instead of using a link when possible. You should keep an eye on [OpenPhish](https://openphish.com/) and [PhishTank](https://www.phishtank.com/) to familiarize yourself with the most common phishing currently floating around.
 
-![image](https://user-images.githubusercontent.com/30116824/151537022-214a2a5d-3110-416c-a9e9-89c7280877b3.png)
+![image](https://user-images.githubusercontent.com/30116824/151537430-397286cc-a3be-4df8-96dc-f0a2b8974117.png)
 
 ### Test on a regular basis.
 

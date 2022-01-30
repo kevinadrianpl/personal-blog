@@ -32,10 +32,12 @@ Another is obfuscating URLs by simply adding additional characters, spoofing URL
 
 ## Who does the phishing and who are the victims?
 
-Another recent change is in who is targeted. There are massive campaigns aimed at whoever will click a link, but certain phishing attacks are far more precise. Spear-phishing, for instance, targets specific users or companies using sites they are familiar with or imitating known users to lure them in. Whaling is even more precise, aimed at high level executives and key users. 
+Another recent change is in who they target. There are massive campaigns aimed at anyone that would click a link, but certain phishing attacks are far more precise. Spear-phishing, for instance, targets specific users or companies using sites they are familiar with or imitating known users to lure them in. 
+Whaling is even more precise, aimed at high level executives and key users. 
 Extensive research is usually conducted so threat actors know what may entice these companies or individual users to open a message. From there, an email is designed to personalize the content and convey the right tone for the business or individual. 
 A whaling attack against a C-level user or employee may require a certain level of urgency to ensure that it’s opened, typically involving financial, legal, or, ironically, security matters.
-There is an increasing number of attackers who phish nowadays. Before, threat actors were only those who understood the mechanics of phishing. Now, phishing kits can be bought easily on the dark web, giving anyone who has a reason to phish the tools needed to do so. This has boosted the number of attacks even farther. 
+
+There is an increasing number of attackers who phish nowadays. Before, threat actors were only those who understood the mechanics of phishing. Now, phishing kits can be bought easily on the dark web, giving anyone who has a reason to phish the tools needed to do so. This has boosted the number of attacks even further. 
 With constant attacks being launched, it’s no wonder that so many people have been fooled.
 
 ## How can you avoid getting phished?

@@ -20,10 +20,11 @@ The term phishing goes all the way back to the late 90s when it was used by grou
 
 ## Advanced phishing strategies
 
-The core principles of phishing have remained the same, but the motivation is getting malware into your network or accessing credentials. This is still accomplished through malicious links or attachments via email, text messages, web pages and social media.
+The core principles of phishing have remained the same, but the motivation is to get malware into the victims network or accessing their credentials. This is still accomplished through malicious links, attachments via email, text messages, web pages or social media.
 
-What is different now is the presentation. There are still emails with obviously fake email addresses with tons of spelling errors and an increasing number of them are nearly impossible to tell from the real thing. This leads to websites prompting credentials that look almost identical to the site they are imitating. 
-Threat actors are now making conversation-hijacking attacks, which uses previously compromised email accounts to reply to ongoing email threads. They get in with an email that has malicious links or attachments during a conversation, easily catching other members of the thread off guard because they already trust that email account. 
+What is different now is the presentation. There are still emails with obviously fake email addresses and multiple spelling errors and an increasing number of them are nearly impossible to tell from the real thing. This leads to websites prompting for credentials that look almost identical to the site they are imitating. 
+
+More recently, threat actors are making conversation-hijacking attacks, which uses previously compromised email accounts to reply to ongoing email threads. They get in with an email that has malicious links or attachments during a conversation, easily catching other members of the thread off guard because they already trust that email account. 
 
 ## How do phishing emails get to your inbox?
 The backend of phishing has also evolved as there have been increasing attempts in evading filters. One method is using images of text to avoid being readable and tagged as junk mail. 

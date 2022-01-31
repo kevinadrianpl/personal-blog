@@ -11,7 +11,6 @@ categories = [
 ]
 +++
 
-What is a Man-In-The-Middle attack, how does it work, and how can I protect myself?
 Man-in-the-Middle (MitM) attacks are when one website steps in-between you and a legitimate website so that whatever you do on the legitimate website can be seen and stolen by the attacker who owns the site in the middle. 
 
 ## Attackers take over the Domain Name System (DNS) server that tells your browser where to find websites online. 
@@ -22,11 +21,17 @@ This is when you type a URL into your browser, then the browser goes to a DNS se
 
 These attacks start the same but instead of serving you a site of their own, they simply record all the information you're sending/receiving on the original site. So, if you went to your bank's website, you wouldn't see anything different at all. You'd send your details to the bank, which the attacker would intercept and then pass on to the bank. The bank would send back your information, which the attacker would save and then pass back to you. You don't see it happening, but the attacker now has a copy of all that information and can use it for whatever they want. This type of attack is much more difficult to pull off but is more successful since both sides see exactly what they expect to see the entire time.
 
-So how do you protect yourself against it? This is difficult because you don't have direct control over the DNS servers. They're managed by groups on the internet, including the websites themselves, your ISP, your IT department, and many others. If they get compromised by an attacker, there's no way for you to be able to see that until it's too late. There are ways you can make it a lot harder for MitM attacks to work, and to defend yourself against them:
+So how do you protect yourself against it? This is difficult because you don't have direct control over the DNS servers. They're managed by groups on the internet, including the websites themselves, ISPs, IT departments, and many others. If they get compromised by an attacker, there's no way for you to be able to see that until it's too late. 
 
-### Always use https: when possible. 
+There are ways you can make it a lot harder for MitM attacks to work, and to defend yourself against them:
 
-Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secured https: but it's more complex and expensive to maintain; so most sites didn't use it. Over the last few years, most websites have started using it because of all and attacks that have been going on. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system updated and the website, you're visiting does the same.
+### Always use https:// when possible. 
+
+Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secure https: but it's more complex and expensive to maintain so most sites didn't use it. Over the last few years, most websites have started using it because of frequent attacks that have been going on and it has become cheaper. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system and browser updated and the website you're visiting does the same. 
+
+I recommend using a browser extension to force https:, this helps avoid the trouble of checking each link. One such extension is [HTTPS Everywhere](https://www.eff.org/https-everywhere), this works on majority of the popular browsers out there.
+
+![image](https://user-images.githubusercontent.com/30116824/151760584-f07a995d-72a8-4bf8-a7f6-f9a6b2612c5b.png)
  
 ### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
 

@@ -53,6 +53,4 @@ This attack tricks two people into believing that they’re emailing each other 
 ### Malvertising
 This technique uses online advertisements or pop-ups to get people to click a valid-looking link that installs malware on their computer.
 
-----
-
 Like most phishing attacks, social engineering preys on the natural human tendency to trust people and companies. This leads to users failing to carefully review email details and automatically trusting the sender’s request. 

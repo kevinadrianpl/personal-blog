@@ -1,7 +1,7 @@
 +++
 author = "Kevin Adrian Pillay"
 title = "What is a Man-in-the-Middle attack?"
-date = "2021-12-10"
+date = "2022-01-06"
 tags = [
     "mitm",
     "man-in-the-middle",

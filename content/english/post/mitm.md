@@ -31,12 +31,6 @@ Many websites used to use the unsecured http: protocol to send and receive data.
 
 I recommend using a browser extension to force https:, this helps avoid the trouble of checking each link. One such extension is [HTTPS Everywhere](https://www.eff.org/https-everywhere), this works on majority of the popular browsers out there.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/30116824/151767156-ec7b505f-3569-4117-877a-2e3b96efe9fc.png" alt="HTTPS Everywhere"/>
-</p>
-
-![image](https://user-images.githubusercontent.com/30116824/151767406-3295e00f-01ba-4a6a-a444-d337f346039b.png)
-
 ### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
 
 Attackers always find ways around MitM mitigation, that is why software is updated to overcome the attackers. While you can't force the website you're visiting to stay updated, keeping your side up to date can stop most attacks.

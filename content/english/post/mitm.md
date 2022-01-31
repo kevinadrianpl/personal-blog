@@ -14,8 +14,6 @@ categories = [
 What is a Man-In-The-Middle attack, how does it work, and how can I protect myself?
 Man-in-the-Middle (MitM) attacks are when one website steps in-between you and a legitimate website so that whatever you do on the legitimate website can be seen and stolen by the attacker who owns the site in the middle. 
 
-## There are two ways this happens:
-
 ## Attackers take over the Domain Name System (DNS) server that tells your browser where to find websites online. 
 
 This is when you type a URL into your browser, then the browser goes to a DNS server provided by your ISP that tells your browser where to find the websites. If an attacker were to take over the site listing in a DNS server, the DNS record, or the entire DNS server itself, it could re-route you to a different site that looks and acts like the site you wanted to go to. 

@@ -32,7 +32,9 @@ There are many different managers such as 1Password, LastPass or Bitwarden that 
 There are many amazing paid password managers but if you would prefer a free manager, I can recommend Bitwarden because their free tier is great considering the amount of features it has. 
 The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 
-![image](https://user-images.githubusercontent.com/30116824/150977901-ce832df3-2ab4-4eef-8531-67d7d24e0293.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30116824/150977901-ce832df3-2ab4-4eef-8531-67d7d24e0293.png" alt="Bitwarden"/>
+</p>
 
 ## Here are a few guidelines for creating strong passwords to keep your information secure
 

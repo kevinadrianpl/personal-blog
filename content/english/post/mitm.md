@@ -24,15 +24,15 @@ These attacks start the same but instead of serving you a site of their own, the
 
 So how do you protect yourself against it? This is difficult because you don't have direct control over the DNS servers. They're managed by groups on the internet, including the websites themselves, your ISP, your IT department, and many others. If they get compromised by an attacker, there's no way for you to be able to see that until it's too late. There are ways you can make it a lot harder for MitM attacks to work, and to defend yourself against them:
 
-### 1.	Always use https: when possible. 
+### - Always use https: when possible. 
 
 Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secured https: but it's more complex and expensive to maintain; so most sites didn't use it. Over the last few years, most websites have started using it because of all and attacks that have been going on. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system updated and the website, you're visiting does the same.
  
-### 2.	Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
+### - Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
 
 Attackers always find ways around MitM mitigation, that is why software is updated to overcome the attackers. While you can't force the website, you're visiting to stay updated, keeping your side up to date can stop most attacks.
  
-### 3.	Don’t change settings if you don’t understand them, reach out to an expert. 
+### - Don’t change settings if you don’t understand them, reach out to an expert. 
 
 Changing settings by using unauthorized VPN systems, TOR browsers, or other tricks may seem to make your day go easier; or help you find restricted information but could also open you up to MitM attacks. Be careful when signing up to newsletters on websites. Sometimes their website is fine, but mailing lists get compromised. 
 

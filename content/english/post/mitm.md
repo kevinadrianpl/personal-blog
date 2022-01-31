@@ -31,14 +31,14 @@ Many websites used to use the unsecured http: protocol to send and receive data.
 
 I recommend using a browser extension to force https:, this helps avoid the trouble of checking each link. One such extension is [HTTPS Everywhere](https://www.eff.org/https-everywhere), this works on majority of the popular browsers out there.
 
-![image](https://user-images.githubusercontent.com/30116824/151760584-f07a995d-72a8-4bf8-a7f6-f9a6b2612c5b.png)
- 
+![image](https://user-images.githubusercontent.com/30116824/151761184-035b5b1b-a71a-4609-ac92-31fffc3e038c.png)
+
 ### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
 
-Attackers always find ways around MitM mitigation, that is why software is updated to overcome the attackers. While you can't force the website, you're visiting to stay updated, keeping your side up to date can stop most attacks.
+Attackers always find ways around MitM mitigation, that is why software is updated to overcome the attackers. While you can't force the website you're visiting to stay updated, keeping your side up to date can stop most attacks.
  
 ### Don’t change settings if you don’t understand them, reach out to an expert. 
 
-Changing settings by using unauthorized VPN systems, TOR browsers, or other tricks may seem to make your day go easier; or help you find restricted information but could also open you up to MitM attacks. Be careful when signing up to newsletters on websites. Sometimes their website is fine, but mailing lists get compromised. 
+Changing or bypassing settings on your system by using unauthorized VPN systems, TOR browser, or other tricks may seem to make your day go easier or help you find restricted information but could also open you up to MitM attacks. Be more careful when clicking on links and make sure you aren't clicking on an ad instead of the site you're actually looking for.
 
-While it may not be possible to stop every attack, websites and companies like Microsoft, Apple, Samsung, Google, and others are working to make sure the attacks don't work or are stopped from working quickly. Your ISP is also keeping a close eye on anyone trying to attack your DNS servers. Always keep your systems updated and don’t fall prey to phishing and you should be fine.
+While it may not be possible to stop every attack, websites and companies like Microsoft, Apple, Samsung, Google, and others are working to make sure the attacks don't work or are stopped from working as fast. ISPs are also keeping a close eye on anyone trying to attack your DNS servers. Always keep your systems updated and don’t fall prey to phishing and you should be fine.

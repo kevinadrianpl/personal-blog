@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-Man-in-the-Middle (MitM) attacks are when one website steps in-between you and a legitimate website so that whatever you do on the legitimate website can be seen and stolen by the attacker who owns the site in the middle. 
+MitM attacks are when a website steps in-between you and a legitimate website so that whatever you do on the legitimate website is seen and stolen by the attacker who owns the site in the middle. 
 
 ## Attackers take over the Domain Name System (DNS) server that tells your browser where to find websites online. 
 

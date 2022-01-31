@@ -31,7 +31,7 @@ Many websites used to use the unsecured http: protocol to send and receive data.
 
 I recommend using a browser extension to force https:, this helps avoid the trouble of checking each link. One such extension is [HTTPS Everywhere](https://www.eff.org/https-everywhere), this works on majority of the popular browsers out there.
 
-![image](https://user-images.githubusercontent.com/30116824/151762622-84c8783e-4a85-494a-a37d-7346b394a6e0.png)
+![image](https://user-images.githubusercontent.com/30116824/151762788-603c7e5a-c05e-45b6-a1a5-6f7ecf3a15c8.png)
 
 ### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
 

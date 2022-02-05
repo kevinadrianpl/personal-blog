@@ -19,7 +19,7 @@ During the last few years, there has been an increase in malware, ransomware, an
 
 Let’s look at why Linux attacks are occurring more often and what you can do to prevent them: 
 
-### Thinking Linux is safe is the wrong approach
+### Assuming that Linux is safe is the wrong approach
 
 There are many users who assume that their Linux systems are untouchable and choose inaction over readiness. Think for a moment about Java and other cross-platform solutions that are designed to work on multiple systems. Consider the recent Java based malware like HEUR: Backdoor, it no longer matters which operating system you’re using. This can also be executed on Linux systems and cause significant damage. Another example is the recent Log4j exploit known as Log4Shell, this affects Linux servers around the world as well. 
 

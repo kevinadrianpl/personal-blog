@@ -29,11 +29,11 @@ Windows threats may be more common, but you can’t assume that Linux is more se
 
 ### Having unpatched services and systems is asking for malware
 
-Content management systems like WordPress have given users powerful tools to manage websites with modules and plugins making is easier to manage and update your website. Majority of these third-party tools hook directly into the most permissions of your servers, including FTP write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not solve the problem. You must be aware of the weaknesses of the services running on top of other services to ensure you are not vulnerable and are protected. 
+Content management systems like WordPress have given users powerful tools to manage websites with modules and plugins making is easier to manage and update your website. Majority of these third-party tools hook directly into most permissions of your web server, including FTP read-write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not always solve the problem. You must be aware of the weaknesses of the services running on top of other services you use, to ensure you are not vulnerable and are protected. 
 
 ### Linux systems can infest other systems with viruses and malware
 
-There are native viruses built for Linux machines, but Linux can also be carriers that can pass malware to other vulnerable systems in your network or connected remotely. Linux can also become a carrier for Windows based viruses. The only solution is to have an anti-virus installed and regularly updated, as well as signature files and behaviour-based detection which a lot of anti-virus software can do these days, to look for and fix both types of threats, especially threats that live in a Linux filesystem.
+There are native viruses built for Linux machines, but Linux can also be carriers that can pass malware to other vulnerable systems in your network or remotely. Linux can also become a carrier for Windows based viruses. The only solution is to have an anti-virus installed and regularly updated, as well as signature files and behaviour-based detection which a lot of anti-virus software can do these days, to look for and fix both types of threats, especially threats that live in a Linux filesystem.
 
 ### Any system can be targeted now
 

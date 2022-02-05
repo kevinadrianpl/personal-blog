@@ -21,13 +21,15 @@ Let’s look at why Linux attacks are occurring more often and what you can do t
 
 ### Assuming that Linux is safe is the wrong approach
 
-There are many users who assume that their Linux systems are untouchable and choose inaction over readiness. Think for a moment about Java and other cross-platform solutions that are designed to work on multiple systems. Consider the recent Java based malware like HEUR: Backdoor, it no longer matters which operating system you’re using. This can also be executed on Linux systems and cause significant damage. Another example is the recent Log4j exploit known as Log4Shell, this affects Linux servers around the world as well. 
+There are many users who assume that their Linux system is untouchable and choose inaction over readiness. Think for a moment about Java and other cross-platform solutions that are designed to work on multiple systems. Consider the recent Java based malware like HEUR: Backdoor, it no longer matters which operating system you’re using. This can also be executed on Linux systems and cause significant damage. 
 
-Windows threats may be more common, but you can’t assume that Linux is more secure than Windows and conclude that Linux is more secure. Administrators may be totally unprepared to face the risks of their Linux systems.
+Another example is the recent Log4j exploit known as Log4Shell, this affects Linux servers around the world as well as one of the worst exploits in recent history. 
+
+Windows threats may be more common, but you can’t assume that Linux is more secure. Administrators may be unprepared to face the risks of their Linux systems and should take precautions.
 
 ### Having unpatched services and systems is asking for malware
 
-Content management systems like WordPress have given end users powerful tools to manage websites with newer modules and plugins making them more useful. Majority of these third-party tools hook directly into the most permissions of your servers, including FTP write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not solve the problem. You must be aware of the weaknesses of the services running on top of other services to ensure you are not vulnerable and are protected. 
+Content management systems like WordPress have given users powerful tools to manage websites with modules and plugins making is easier to manage and update your website. Majority of these third-party tools hook directly into the most permissions of your servers, including FTP write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not solve the problem. You must be aware of the weaknesses of the services running on top of other services to ensure you are not vulnerable and are protected. 
 
 ### Linux systems can infest other systems with viruses and malware
 

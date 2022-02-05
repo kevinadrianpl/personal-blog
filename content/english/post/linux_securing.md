@@ -15,7 +15,7 @@ categories = [
 At one point, many people believed that it was hard to break into Linux. This assumption needs to change.
 
 We are now all starting to realise that the malware-free experience they once had is quickly disappearing. 
-During the last few years, there has been an increase in malware, ransomware, and malicious code that targets Linux systems specifically. It has become known that Linux malware now accounts for more than one-third of all malware in existence. This means Linux users can no longer continue with the assumption that only Windows is at risk for these malicious attacks. Linux systems attacks have tripled since 2016 and skilled attackers have identified easier methods to exploit Linux directly.
+During the last few years, there has been an increase in malware, ransomware, and malicious code that targets Linux specifically. It has become known that Linux malware now accounts for more than one-third of all malware in existence. This means Linux users can no longer continue with the assumption that only Windows is at risk for these malicious attacks. Linux systems attacks have tripled since 2016 and skilled attackers have identified easier methods to exploit Linux directly.
 Let’s look at why Linux attacks are occurring more often and what you can do to prevent them: 
 
 ### Thinking Linux is safe is the wrong approach

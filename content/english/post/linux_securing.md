@@ -37,7 +37,7 @@ There are native viruses built for Linux machines, but Linux can also be carrier
 
 ### Any system can be targeted now
 
-Whether it’s Windows, Mac, or Linux, files on any system are vulnerable to malware. Linux was never completely secure, today it is much less so because of the growing amount of threat actors out there. Unpatched software, like SSH and services like Apache and FTP, increase vulnerability. Regular updates and patching lower the risk of getting compromised, but people often see these critical tasks as optional and ignore notifications asking them to do so which can be a critical mistake. If updates are not performed out of concern for breaking an older app or just plain forgetfulness, you may get breached and suffer more loss. 
+Whether it’s Windows, Mac, or Linux, files on any system are vulnerable to malware. Linux was never completely secure, today it is much less so because of the growing amount of threat actors out in the wild. Unpatched software, like SSH and services like Apache and FTP, increase vulnerability. Regular updates and patching lower the risk of getting compromised, but people often see these critical tasks as optional and ignore notifications asking them to do so which can be a critical mistake. If updates are not performed out of concern for breaking an older app or just plain forgetfulness, you may get breached and suffer more loss. 
 
 ### Use Linux-based scanners
 

@@ -33,7 +33,7 @@ There are many amazing paid password managers but if you would prefer a free man
 The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30116824/150977901-ce832df3-2ab4-4eef-8531-67d7d24e0293.png" alt="Bitwarden"/>
+  <img src="/images/bitwarden.png" alt="Bitwarden"/>
 </p>
 
 ## Here are a few guidelines for creating strong passwords to keep your information secure

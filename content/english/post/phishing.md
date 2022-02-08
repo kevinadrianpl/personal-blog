@@ -58,7 +58,7 @@ Follow best practices, like going directly to a website instead of using a link 
 Take a look at the different types of phishing [here](https://www.kevinadrian.dev/post/phishing_types/).
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30116824/152929057-7ae40b53-89eb-4294-a18a-ffaced83e2bd.png" alt="Example Phishin Attempt"/>
+  <img src="/images/phishing_example.png" alt="Example Phishin Attempt"/>
 </p>
 
 ### Test on a regular basis.

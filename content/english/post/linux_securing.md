@@ -56,7 +56,7 @@ You should consider tools like Ansible, Chef, and Puppet to advance your automat
 
 ### The importance of education
 
-Threats and attacks are frustrating to system administrators, IT practitioners and end users too, because they take time away from valuable work or personal time. Rather than shifting the blame, it is more productive to develop a culture of vigilance that rewards both you or your users for understanding threats and avoiding them rather than dismissing them without a second thought. Remember that you are taking the time to educate yourself and your users about best practices and warning signs to look at before a threat takes over, this will reinforce the importance of watchfulness and vigilance.
+Threats and attacks are frustrating to system administrators, IT administrators and end users too, because they take time away from valuable work or personal time. Rather than shifting the blame, it is more productive to develop a culture of vigilance that rewards both you or your users for understanding threats and avoiding them rather than dismissing them without a second thought. Remember that you are taking the time to educate yourself and your users about best practices and warning signs to look at before a threat takes over, this will reinforce the importance of watchfulness and vigilance.
 
 ### Choose a proper anti-virus solution
 

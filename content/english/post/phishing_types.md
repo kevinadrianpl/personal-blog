@@ -15,7 +15,7 @@ Phishing email attacks have evolved over the years to become more intricate, ent
 Flagging suspicious messages in your inbox can be tough so you need to get familiar with the different forms a phishing email can take on. Below is a list of the different types of phishing:
 
 ### Phishing Email
-Phishing emails still cause a large amount of the data breaches in the world. They are designed to appear to come from a legitimate source, like your bank, PayPal, etc. Cybercriminals hide their presence in details like the URL, an email attachment, and more.
+Phishing emails cause a large amount of the data breaches in the world. They are designed to appear to come from a legitimate source, like your bank, PayPal, etc. Cybercriminals hide their presence in details like the URL, an email attachment, and more.
 
 ### Spear Phishing
 This is a targeted phishing attack that relies on data that a cybercriminal has already collected about the victim. Spear phishing usually uses urgent and familiar language to encourage the victim to act immediately.

@@ -17,11 +17,11 @@ At one point, many people believed that it was hard to break into Linux. This as
 We are now all starting to realise that the malware-free experience they once had is quickly disappearing. 
 During the last few years, there has been an increase in malware, ransomware, and malicious code that targets Linux specifically. It has become known that Linux malware now accounts for more than one-third of all malware in existence. That means Linux users can no longer continue with the assumption that only Windows is at risk for these malicious attacks. Linux attacks have tripled since 2016 and skilled attackers have identified easier methods to exploit Linux directly.
 
-Let’s look at why Linux attacks are occurring more often and what you can do to prevent them: 
+Let’s look at why Linux attacks are occurring more often and what you can do to prevent them:
 
 ### Assuming that Linux is safe is the wrong approach
 
-There are many users who assume that their Linux system is untouchable and choose inaction over readiness. Think for a moment about Java and other cross-platform solutions that are designed to work on multiple systems. Consider the recent Java based malware like HEUR: Backdoor, it no longer matters which operating system you’re using. This can also be executed on Linux systems and cause significant damage. 
+There are many users who assume that their Linux system is untouchable and choose inaction over readiness. Think for a moment about Java and other cross-platform solutions that are designed to work on multiple systems. Consider the recent Java based malware like HEUR: Backdoor, it no longer matters which operating system you’re using. This can also be executed on Linux systems and cause significant damage.
 
 Another example is the recent Log4j exploit known as Log4Shell, this affects Linux servers around the world as well as one of the worst exploits in recent history. 
 
@@ -29,7 +29,7 @@ Windows threats may be more common, but you can’t assume that Linux is more se
 
 ### Having unpatched services and systems is asking for malware
 
-Content management systems like WordPress have given users powerful tools to manage websites with modules and plugins making is easier to manage and update your website. Majority of these third-party tools hook directly into most permissions of your web server, including FTP read-write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not always solve the problem. You must be aware of the weaknesses of the services running on top of other services you use, to ensure you are not vulnerable and are protected. 
+Content management systems like WordPress have given users powerful tools to manage websites with modules and plugins making is easier to manage and update your website. Majority of these third-party tools hook directly into most permissions of your web server, including FTP read-write access. Some of these plugins are not always coded properly or securely, making these tools entry points for attacks. This means that patching web servers like Apache, or nginx does not always solve the problem. You must be aware of the weaknesses of the services running on top of other services you use, to ensure you are not vulnerable and are protected.
 
 ### Linux systems can infest other systems with viruses and malware
 

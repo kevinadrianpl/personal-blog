@@ -15,13 +15,13 @@ Phishing email attacks have evolved over the years to become more intricate, ent
 Flagging suspicious messages in your inbox can be tough so you need to get familiar with the different forms a phishing email can take on. Below is a list of the different types of phishing:
 
 ### Phishing Email
-Phishing emails still cause a large amount of the data breaches in the world. They are designed to appear to come from a legitimate source, like your bank, PayPal, etc. Cybercriminals hide their presence in details like the URL, an email attachment, and more.
+Phishing emails cause a large amount of the data breaches in the world. They are designed to appear to come from a legitimate source, like your bank, PayPal, etc. Cybercriminals hide their presence in details like the URL, an email attachment, and more.
 
 ### Spear Phishing
-This is a more targeted phishing attack that relies on data that a cybercriminal has been collected about the victim. Spear phishing usually uses urgent and familiar language to encourage the victim to act immediately.
+This is a targeted phishing attack that relies on data that a cybercriminal has already collected about the victim. Spear phishing usually uses urgent and familiar language to encourage the victim to act immediately.
 
 ### Link Manipulation
-This relies on carefully worded phishing emails, this type of attack includes a link to popular sites to make you trust it. This link takes victims to a spoofed version of the popular website, designed to look like the real site, and asks you to confirm or update your account credentials.
+This relies on carefully worded phishing emails, this type of attack includes a link to popular sites to make you trust it. This link takes victims to a spoofed version of a popular website, designed to look like the real site, and asks you to confirm or update your account credentials.
 
 ### Fake Websites
 Attackers send phishing emails that include links to fake websites asking the victim to enter their credentials or other information. The website will often make subtle change to a known URL to trick users, such as mail.update.google.com instead of mail.google.com.

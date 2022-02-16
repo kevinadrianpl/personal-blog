@@ -33,15 +33,15 @@ Content management systems like WordPress have given users powerful tools to man
 
 ### Linux systems can infest other systems with viruses and malware
 
-There are native viruses built for Linux machines, but Linux can also be carriers that can pass malware to other vulnerable systems in your network or remotely. Linux can also become a carrier for Windows based viruses. The only solution is to have an anti-virus installed and regularly updated, as well as signature files and behaviour-based detection which a lot of anti-virus software can do these days, to look for and fix both types of threats, especially threats that live in a Linux filesystem.
+There are native viruses built for Linux machines, but Linux can also be carriers that can pass malware to other vulnerable systems in your network or remotely. Linux can also become a carrier for Windows based viruses. The only solution is to have an anti-virus installed and regularly updated, as well as signature files and behavior-based detection which a lot of anti-virus software can do these days, to look for and fix both types of threats, especially threats that live in a Linux filesystem.
 
 ### Any system can be targeted now
 
-Whether it’s Windows, Mac, or Linux, files on any system are vulnerable to malware. Linux was never completely secure, today it is much less so because of the growing amount of threat actors out in the wild. Unpatched software, for example SSH and services like Apache and FTP, increase vulnerability. Regular updates and patching lower the risk of getting compromised, but people often see these critical tasks as optional and ignore notifications asking them to do so which can be a critical mistake. If updates are not performed out of concern for breaking an older app or just plain forgetfulness, you may get breached and suffer more damage. 
+Whether it’s Windows, Mac, or Linux, files on any system are vulnerable to malware. Linux was never completely secure, today it is much less so because of the growing amount of threat actors out in the wild. Unpatched software, for example SSH and services like Apache and FTP, increase vulnerability. Regular updates and patching lower the risk of getting compromised, but people often see these critical tasks as optional and ignore notifications asking them to do so which can be a critical mistake. If updates are not performed out of concern for breaking an older app or just plain forgetfulness, you may get breached and suffer more damage.
 
 ### Use Linux-based scanners
 
-To target UNIX-specific threats and to eliminate the risks of running scans across your entire network, you should instead use a local Linux-based scanning tool. This way you can avoid the hassle of failures and speed up scanning with local scanners that do not rely on networking. Linux tools are developed specifically for Linux, they use signature files and behavioural scanning designed to detect Linux-specific threats.
+To target UNIX-specific threats and to eliminate the risks of running scans across your entire network, you should instead use a local Linux-based scanning tool. This way you can avoid the hassle of failures and speed up scanning with local scanners that do not rely on networking. Linux tools are developed specifically for Linux, they use signature files and behavioral scanning designed to detect Linux-specific threats.
 
 ### Using Windows based tools on Linux can expose you
 
@@ -64,7 +64,6 @@ Usually, not all antivirus solutions are created equally. Native antivirus for L
 
 ## Becoming more secure starts right now
 
-Linux has been so relied on as a reliable system capable of handling heavy duty tasks for enterprise servers in businesses. This is the reason it has become a legitimate target for threat actors. The data they store and the networks they support are so valuable that attackers have decided it is worth the time to invest in creating malware geared toward Linux. So rather than ignoring the reality of what it is, make sure you take the simple steps to help reduce your vulnerability and reduce your risk significantly. 
+Linux has been so relied on as a reliable system capable of handling heavy duty tasks for enterprise servers in businesses. This is the reason it has become a legitimate target for threat actors. The data they store and the networks they support are so valuable that attackers have decided it is worth the time to invest in creating malware geared toward Linux. So rather than ignoring the reality of what it is, make sure you take the simple steps to help reduce your vulnerability and reduce your risk significantly.
 
-### It will not just make your systems secure; it will make you secure.
-
+### It will not just make your systems secure; it will make you secure

@@ -23,10 +23,10 @@ While the end goal of any password attack is to crack a user’s password to gai
 
 ### These are the most common ones
 
-Dictionary Attacks – A dictionary attack begins with an attacker systematically trying every word in common language dictionaries like English, or Spanish for example, 
-to break into a system, relying on the tendency of people to use a single, real word as their passwords. However, as time has gone on, attackers have graduated 
-from only using a dictionary as their source to also using password or word lists that can be found on the internet. Password, 1234567, password1, 111111, and qwerty 
-remain popular favourites among end-users, unfortunately.
+Dictionary Attacks – A dictionary attack begins with an attacker systematically trying every word in common language dictionaries like English, or Spanish for example,
+to break into a system, relying on the tendency of people to use a single, real word as their passwords. However, as time has gone on, attackers have graduated
+from only using a dictionary as their source to also using password or word lists that can be found on the internet. Password, 1234567, password1, 111111, and qwerty
+remain popular favorites among end-users, unfortunately.
   
 Brute-Force Attacks – Unlike plaintext passwords in dictionary attacks, brute-force attacks use trial and error even more randomly, working through every combination of
 letters, numbers, and symbols. These attacks benefit from the fact that most users keep their passwords short. 

@@ -11,9 +11,9 @@ categories = [
 ]
 +++
 
-Man-in-the-middle attacks (MITM) are a type of cybersecurity attack that allows attackers to eavesdrop on the communication between two targets. 
+Man-in-the-middle attacks (MITM) are a type of cybersecurity attack that allows attackers to eavesdrop on the communication between two targets.
 
-## Attackers take over the Domain Name System (DNS) server that tells your browser where to find websites online. 
+## Attackers take over the Domain Name System (DNS) server that tells your browser where to find websites online
 
 This is when you type a URL into your browser, then the browser goes to a DNS server provided by your ISP that tells your browser where to find the websites. If an attacker were to take over the site listing in a DNS server, the DNS record, or the entire DNS server itself, it could re-route you to a different site that looks and acts like the site you wanted to go to.
 
@@ -27,15 +27,15 @@ There are ways you can make it a lot harder for MitM attacks to work, and to def
 
 ### Always use https:// when possible
 
-Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secure https: but it's more complex and expensive to maintain so most sites didn't use it. Over the last few years, most websites have started using it because of frequent attacks that have been going on and it has become cheaper. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system and browser updated and the website you're visiting does the same. 
+Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secure https: but it's more complex and expensive to maintain so most sites didn't use it. Over the last few years, most websites have started using it because of frequent attacks that have been going on and it has become cheaper. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system and browser updated and the website you're visiting does the same.
 
 I recommend using a browser extension to force https:, this helps avoid the trouble of checking each link. One such extension is [HTTPS Everywhere](https://www.eff.org/https-everywhere), this works on majority of the popular browsers out there.
 
-### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated. 
+### Always keep your system, your browser, and any apps you use on your desktop, laptop, and smartphones updated.
 
 Attackers always find ways around MitM mitigation, that is why software is updated to overcome the attackers. While you can't force the website you're visiting to stay updated, keeping your side up to date can stop most attacks.
 
-### Don’t change settings if you don’t understand them, reach out to an expert.
+### Don’t change settings if you don’t understand them, reach out to an expert
 
 Changing or bypassing settings on your system by using unauthorized VPN systems, TOR browser, or other tricks may seem to make your day go easier or help you find restricted information but could also open you up to MitM attacks. Be more careful when clicking on links and make sure you aren't clicking on an ad instead of the site you're actually looking for.
 

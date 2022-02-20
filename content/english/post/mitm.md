@@ -25,7 +25,7 @@ So how do you protect yourself against it? This is difficult because you don't h
 
 There are ways you can make it a lot harder for MitM attacks to work, and to defend yourself against them:
 
-### Always use https:// when possible
+### Always use https
 
 Many websites used to use the unsecured http: protocol to send and receive data. Banks and other security-focused companies used secure https: but it's more complex and expensive to maintain so most sites didn't use it. Over the last few years, most websites have started using it because of frequent attacks that have been going on and it has become cheaper. Make sure that your browser shows the URL with https:// and that you have a green padlock icon in the address bar, that means the connection has been secured. Since secure connections require that both ends must agree on secure properties known as certificates, an attack would usually fail as the server in the middle can't match either side's certificate and cannot establish the secure link. It is extremely difficult for this to fail if you keep your system and browser updated and the website you're visiting does the same.
 

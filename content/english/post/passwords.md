@@ -25,7 +25,7 @@ If one account were to get hacked, they would use that password on your other ac
 
 ## Password Managers
 
-You should consider using a password manager because that is one of the best defences against breaches. A password manager is the best choice if you have many different accounts. It helps you avoid re-using passwords.
+You should consider using a password manager because that is one of the best defences against breaches. A password manager is the best choice if you have many different accounts on multiple platforms and devices. It helps you avoid re-using passwords.
 
 There are many different managers such as 1Password, LastPass or Bitwarden that will help remember your passwords for you instead of remembering hundreds of different passwords. It will help you to remember all your passwords and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in a known hack or breach in the past or future.
 

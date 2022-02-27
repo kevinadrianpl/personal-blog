@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-Everyone would like to believe that they would never be fooled by such an attack these days, but phishing remains as popular as ever. More people may have become more aware, but attackers have also become more skilled in how they lure in more victims. 
+Everyone would like to believe that they would never be fooled by an attack these days, but phishing remains as popular as ever. More people may have become more aware, but attackers have also become more skilled in how they lure in more victims. 
 In this post I’ll explain more about how these phishing attempts have become more sophisticated, and how you or your company can outsmart them.
 
 ## How to prevent phishing attacks

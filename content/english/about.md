@@ -1,6 +1,6 @@
 +++
 title = ""
-description = "Kevin Adrian Pillay, the savior of all mankind"
+description = "Kevin Adrian Pillay, the savior of all humankind."
 date = "2022-01-18"
 aliases = ["about-us", "about", "contact"]
 author = "Kevin Adrian Pillay"

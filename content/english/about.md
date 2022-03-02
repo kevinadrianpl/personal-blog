@@ -10,7 +10,7 @@ author = "Kevin Adrian Pillay"
 ## Who am I?
 
 I'm Kevin from South Africa and I make things on the internet and occasionally off of it. 
-I'm an experienced System Administrator and cybersecurity professional and I have a passion for all things security, learning more each day. 
+I'm an experienced System Administrator and cybersecurity professional and I have a passion for all things security, learning more technical skills each day. 
 
 I sometimes play video games, work on different technical projects to enhance my skills and I often travel in my spare time. 
 

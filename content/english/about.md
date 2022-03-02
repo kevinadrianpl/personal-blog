@@ -14,7 +14,7 @@ I'm an experienced System Administrator and cybersecurity professional and I hav
 
 I sometimes play video games, work on different technical projects to enhance my skills and I often travel in my spare time. 
 
-I believe that deeply understanding the underlying systems you use (browsers, operating systems, the kernel, network layers, databases, HTTP, or whatever else that you may be running in your business, workplace or personal life) is essential if you want to do technically innovative work and to be able to solve real world problems. I live by this philosophy and try to spend my time gaining experience and knowledge in the IT field, it is an ever changing world and requires dedication. 
+I believe that deeply understanding the underlying systems you use (browsers, operating systems, the kernel, network layers, databases, HTTP, or whatever else that you may be running in your business, workplace or personal life) is essential if you want to do technically innovative work and to be able to solve real world problems. I live by this philosophy and try to spend my time gaining experience and knowledge in the tech field, an ever changing world requires dedication. 
 
 
 ## Why do I blog?

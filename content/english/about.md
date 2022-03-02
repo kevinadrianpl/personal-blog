@@ -27,7 +27,7 @@ So I chose to start this blog as an intellectual journal of sorts, to become mor
 
 I research things I find interesting, then document my research with a public blog post, which I can easily find and refer to later when information about said topic is needed. Hopefully other people will find these posts helpful, relevant, or interesting. 
 
-Other than that, this is my personal portfolio and I will be using it to 'store' a few of my accomplishments and for posting articles about my passion for the cybersecurity and IT world in general.
+Other than that, this is my personal portfolio and I will be using it to 'store' a few of my accomplishments and for posting articles about my passion for the cybersecurity and tech world in general.
 
 
 ## Getting in touch with me

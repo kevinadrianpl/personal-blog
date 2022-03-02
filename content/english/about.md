@@ -38,6 +38,6 @@ I’m on Twitter at [Twitter](https://twitter.com/kevinadrianpl) and my email ad
 
 You can also message or follow me on [LinkedIn](https://www.linkedin.com/in/kevinadrianpl/). I love hearing from others.
 
-Check out my [GitHub](https://github.com/kevinadrianpl) to see what projects, tools and other open source ideas I have been busy working on. 
+Check out my [GitHub](https://github.com/kevinadrianpl) to see what projects, tools and other open source ideas I have been working on. 
 
 <a href="https://www.buymeacoffee.com/kevinadrianpl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

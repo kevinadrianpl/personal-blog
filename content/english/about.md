@@ -40,4 +40,4 @@ You can also message or follow me on [LinkedIn](https://www.linkedin.com/in/kevi
 
 Check out my [GitHub](https://github.com/kevinadrianpl) if you want to see what projects and tools I have been busy working on. 
 
-<a href="https://www.buymeacoffee.com/kevinadrianpl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/kevinadrianpl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

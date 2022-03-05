@@ -11,7 +11,7 @@ categories = [
 ]
 +++
 
-Phishing email attacks have evolved over the years to become more intricate, enticing, and tougher to spot. 
+Phishing email attacks have evolved over the years to become more intricate and tougher to spot. 
 Flagging suspicious messages in your inbox can be tough so you need to get familiar with the different forms a phishing email can take on. Below is a list of the different types of phishing:
 
 ### Phishing Email

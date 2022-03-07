@@ -12,7 +12,7 @@ categories = [
 ]
 +++
 
-At some point, most people believed that it was tough to break into Linux distributions. This assumption needs to change.
+At some point, most people believed that it was tough to break into Linux distributions but this assumption needs to change.
 
 We are now all starting to realise that the malware-free experience they once had is quickly disappearing.
 During the last few years, there has been an increase in malware, ransomware, and malicious code that targets Linux specifically. It has become known that Linux malware now accounts for more than one-third of all malware in existence. That means Linux users can no longer continue with the assumption that only Windows is at risk for these malicious attacks. Linux attacks have tripled since 2016 and skilled attackers have identified easier methods to exploit Linux directly.

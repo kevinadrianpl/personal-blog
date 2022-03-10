@@ -33,13 +33,13 @@ You should also be suspicious if you see any file with a double extension, such 
 
 ## Always check the email domain
 
-Another way that attackers will try to deceive users is by claiming to be from a certain company by using a domain or a signature in the email. For example, if it says they are emailing on behalf of First National Bank, they should have an email address that ends with “@fnb.co.za”. The email domain should match the company that they are claiming to represent, and not something random @gmail.com for example. 
+Another way that attackers will try to deceive users is by claiming to be from a certain company by using a domain or a signature in the email. For example, if it says they are emailing on behalf of First National Bank, they should have an email address that ends with “@fnb.co.za”. The email domain should match the company that they are claiming to represent, and not something random @gmail.com for example.
 
 Make sure you check that the domain is spelt correctly as well. Sometimes, attackers will purposely misspell a company's name in hopes that victims won't notice and fall for it.
 
 ## Use VirusTotal.com when you feel something is suspicious
 
-VirusTotal is a great free tool that lets you upload files or links and it will run a scan based on more than 30 antivirus providers. It will then return the results to you and let you know if any of the antivirus providers found that file or link to be malicious/dangerous. 
+VirusTotal is a great free tool that lets you upload files or links and it will run a scan based on more than 30 antivirus providers. It will then return the results to you and let you know if any of the antivirus providers found that file or link to be malicious/dangerous.
 
 It’s easy to use, takes less than 10 seconds to scan and it’s 100% free to use.
 
@@ -47,7 +47,7 @@ If you ever have any doubts about a link that is sent to you, just visit VirusTo
 
 ## Research the company trying to contact you
 
-If a company you have never heard of it tries to contact you via email or text, it may be useful to do a quick google search to see if this company is real, if the product they are claiming is legitimate and to get their official contact information. 
+If a company you have never heard of it tries to contact you via email or text, it may be useful to do a quick google search to see if this company is real, if the product they are claiming is legitimate and to get their official contact information.
 
 If you want to make sure that the email you got is legitimate you can contact the company directly through their main webpage and ask them to confirm that the person contacting you is an employee/representative.
 
@@ -57,7 +57,7 @@ You may also want to check sites like Quora or Reddit to see if there is a patte
 
 ## Research the email sender
 
-In addition to researching the company, you can also research the person that sent you the email. A LinkedIn search can help verify if this person works within the industry by looking at their job history or their contacts within the company that they claim to be working for. 
+In addition to researching the company, you can also research the person that sent you the email. A LinkedIn search can help verify if this person works within the industry by looking at their job history or their contacts within the company that they claim to be working for.
 
 You can also look for other people in your contact list that might work at the company. Ideally, you would want to be able to find that person’s name on the company website or they should have a corporate phone extension that you can call to verify that they work with that company.
 
@@ -69,6 +69,6 @@ If you receive suspicious emails with attachments on your personal email account
 
 If you download any Microsoft file attachments like Word or Excel, don’t enable macros if you don’t need to or don't trust the source of the document. One method that people use for delivering the virus is to create it using VBA (the programming language used to create Microsoft macros), they attach it to the Microsoft file and when you open the file and enable macros it will cause the virus to run.
 
-If you don’t need to run macros to read the files or do your work then don’t enable them, it’s just an extra risk. 
+If you don’t need to run macros to read the files or do your work then don’t enable them, it’s just an extra risk.
 
 Unless you know where the document is coming from and why it has a macro in it, never enable those macros.

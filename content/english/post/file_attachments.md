@@ -5,7 +5,7 @@ date = "2022-02-14"
 tags = [
     "malware",
     "attachments",
-    "virustotal",
+    "virus",
     "phishing",
 ]
 categories = [

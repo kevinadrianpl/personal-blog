@@ -25,7 +25,7 @@
   [[main]]
   name = "Resume"
   weight = 500
-  identifier = "resume"
+  identifier = "resume.pdf"
   url = "/resume/"
   
   [[footer]]

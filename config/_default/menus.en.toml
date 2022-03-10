@@ -22,6 +22,12 @@
   identifier = "about"
   url = "/about/"
 
+  [[main]]
+  name = "Resume"
+  weight = 500
+  identifier = "resume"
+  url = "/resume/"
+  
   [[footer]]
   name = "Legal"
   weight = 1

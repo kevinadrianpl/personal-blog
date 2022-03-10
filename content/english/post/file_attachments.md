@@ -63,7 +63,7 @@ You can also look for other people in your contact list that might work at the c
 
 ## Save it to cloud storage and not your local storage
 
-If you receive suspicious emails with attachments on your personal email account, consider saving it to your Google Drive or One Drive instead of your local storage. This way if it is a virus, it will be stored in the cloud on your provider’s server rather than locally. Most of these big cloud providers scan files regularly, have hardened servers, DMZs and a lot of other security features that the average person doesn’t so they are much more prepared in case it is malware.
+If you receive suspicious emails with attachments on your personal email account, consider saving it to your Google Drive, One Drive, or other cloud storage instead of your local storage. This way if it is a virus, it will be stored in the cloud on your provider’s server rather than locally. Most of these big cloud providers scan files regularly, have hardened servers, DMZs and a lot of other security features that the average person doesn’t so they are much more prepared in case it is malware.
 
 ## Do not enable macros unless absolutely necessary
 

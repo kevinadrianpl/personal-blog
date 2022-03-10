@@ -7,7 +7,7 @@ Any views or opinions are not intended to malign any religion, ethnic group, clu
 The owner will not be liable for any errors or omissions in this information nor for the availability of this information. 
 The owner will not be liable for any losses, injuries, or damages from the display or use of this information.
 
-Any downloadable file, including but not limited to PDFs, docs, jpegs, pngs, is provided at the user’s own risk. 
+Any downloadable file, including but not limited to PDFs, docs, jpegs, PNGs, is provided at the user’s own risk. 
 The owner will not be liable for any losses, injuries, or damages resulting from a corrupted or damaged file. 
 
 Any monetary donations made towards me, or the website is non-refundable unless agreed upon by the owner and donator. An agreement needs to be made before reversing a donation. 

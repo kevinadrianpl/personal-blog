@@ -13,9 +13,9 @@ categories = [
 ]
 +++
 
-In the professional world and our personal lives, we receive emails every day and we are expected to check most of them. Occasionally, spam emails will find their way out of the filters and into our inboxes and some have attachments.
+You should be wary of downloading attachments from emails that may contain malware.
 
-You should be wary of downloading something that may contain malware.
+In the professional world and our personal lives, we receive emails every day and we are expected to check most of them. Occasionally, spam emails will find their way out of the filters and into our inboxes and some have attachments.
 
 If you look into your spam folder you will see a lot of emails that try to get you to either download an attachment or visit a link. Email attachments are one of the main ways that attackers try to trick people into downloading malware onto their machine and some of them can be very convincing. Good hackers know how to create emails that compel users into downloading the attachment.
 

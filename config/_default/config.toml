@@ -1,7 +1,7 @@
 baseURL = "https://kevinadrian.dev/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "The personal homepage of Kevin Adrian Pillay"
+title = "Homepage of Kevin Adrian Pillay"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true

@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-You should be wary of downloading attachments from emails that may contain malware.
+You should always be wary of downloading attachments from emails that may contain malware.
 
 In the professional world and our personal lives, we receive emails every day and we are expected to check most of them. Occasionally, spam emails will find their way out of the filters and into our inboxes and some have attachments.
 

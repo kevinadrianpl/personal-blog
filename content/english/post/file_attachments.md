@@ -35,7 +35,7 @@ You should also be suspicious if you see any file with a double extension, such 
 
 Another way that attackers will try to deceive users is by claiming to be from a certain company by using a domain or a signature in the email. For example, if it says they are emailing on behalf of First National Bank, they should have an email address that ends with “@fnb.co.za”. The email domain should match the company that they are claiming to represent, and not something random @gmail.com for example.
 
-Make sure you check that the domain is spelt correctly as well. Sometimes, attackers will purposely misspell a company's name in hopes that victims won't notice and fall for it.
+Make sure you check that the domain is spelt correctly. Sometimes, attackers will purposely misspell a company's name in hopes that victims won't notice and fall for it.
 
 ## Use VirusTotal.com when you feel something is suspicious
 

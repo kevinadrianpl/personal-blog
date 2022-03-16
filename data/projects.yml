@@ -20,13 +20,14 @@ projectsitems:
         tags:
           - Tag 1
           - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
+      - name: Simple HTML 4-page website
+        image: '/images/projects/html-project.webp'
+        link: https://github.com/kevinadrianpl/html-website/
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'This is a simple 4-page website made for a tattoo parlour that can be used as a template for basically any website. This was done as practice and is contains basic code and images. You are welcome to use this freely. It is written mostly in HTML and CSS with the help of Tailwind.'
         tags:
-          - Tag 1
-          - Tag 2
+          - HTML
+          - Website
   # projects category
   - title: Research
     projectsitem:

@@ -20,14 +20,15 @@ projectsitems:
         tags:
           - Tag 1
           - Tag 2
-      - name: Simple HTML 4-page website
+      - name: Simple HTML Website
         image: '/images/projects/html-project.webp'
         link: https://github.com/kevinadrianpl/html-website/
         status: 'Finished'
         description: 'This is a simple 4-page website made for a tattoo parlour that can be used as a template for basically any website. This was done as practice and is contains basic code and images. You are welcome to use this freely. It is written mostly in HTML and CSS with the help of Tailwind.'
         tags:
-          - HTML
-          - Website
+          - html
+          - css
+          - website
   # projects category
   - title: Research
     projectsitem:

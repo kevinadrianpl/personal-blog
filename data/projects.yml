@@ -20,13 +20,13 @@ projectsitems:
         tags:
           - Tag 1
           - Tag 2
-      - name: HTML Websites
+      - name: HTML/CSS Website
         image: '/images/projects/html-project.webp'
         link: https://github.com/kevinadrianpl/html-website/
         status: 'Finished'
         start: '2020'
         end: '2021'
-        description: 'A simple 4-page website that can be used as a template for basically any website. This was done as practice and contains basic code and images. You are welcome to use this freely. It is written in HTML and CSS with the help of Tailwind.'
+        description: 'Simple websites that can be used as templates for any project. This was done as practice and contains basic code and images. You are welcome to use this freely. It is written in basic HTML and CSS.'
         tags:
           - html
           - css

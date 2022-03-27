@@ -26,7 +26,7 @@ projectsitems:
         status: 'Finished'
         start: '2020'
         end: '2021'
-        description: 'Simple websites that can be used as templates for any project. This was done as practice and contains basic code and images. You are welcome to use this freely. It is written in basic HTML and CSS.'
+        description: 'Simple websites that can be used as templates for any project. This was done as practice and basic code and images. You are welcome to use this freely. It is written in basic HTML and CSS.'
         tags:
           - html
           - css

@@ -17,24 +17,27 @@ Password security is an important subject to consider and the first line of defe
 
 Picking a good password is easier than most people think. You need to think about 2 main things when choosing a password, firstly, is your password long enough and complex enough that it becomes harder to brute force crack it? Generally, you want to have 12 characters and above, I usually stick to 12 - 15 characters. Anything below 8 characters can be cracked in minutes. 
 
-Secondly, can your password be dictionary cracked? Meaning that you want to choose a password that cannot be easily found in a word list or dictionary which is a list of the most commonly used words and passwords. For example, the password 'password123' would take seconds to crack, the password 'mywebsitepassword', even though this is a long password it can easily be found in a dictionary and takes seconds to crack as well. 
+Secondly, can your password be dictionary cracked? If your password is too short or contains dictionary words or can be found in word lists, then it can be cracked through brute force or guessed by someone. The best way to make a strong password is by making it long or consider using a 'passphrase' made up of many words. Using a password generator to create a long, random password can also be beneficial. Use https://www.security.org/how-secure-is-my-password/ to get an idea of how quickly common passwords can be cracked. 
 
 An example of a good password would be something like 'h0rs3st@ble!$'. This would take too long to crack for bad actors to even try, which is great. 
 You should always maintain strong passwords for all your devices and accounts. Always try to avoid re-using passwords which can be one of the easiest methods bad actors have of gaining access to your other accounts. 
 If one account were to get hacked, they would use that password on your other accounts and may get lucky. It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. Re-using passwords is just as bad as a bad password. 
 
-## Password Managers
+## Use a Secure Password Manager
 
 You should consider using a password manager because that is one of the best defences against breaches. A password manager is the best choice if you have many different accounts on multiple platforms and devices. It helps you avoid re-using passwords.
 
-There are many different managers such as 1Password, LastPass or Bitwarden that will help remember your passwords for you instead of remembering hundreds of different passwords. It will help you to remember all your passwords and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in a known hack or breach in the past or future.
+There are many different managers such as 1Password, LastPass or Bitwarden. It will help you to remember all your passwords and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in a known hack or breach in the past or alert you when a breach happens in the future.
 
-There are many amazing paid password managers but if you would prefer a free manager, I can recommend Bitwarden because their free tier is great considering the amount of features it has. 
-The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
+There are many great paid password managers but if you would prefer a free manager, I can recommend Bitwarden because their free tier is great considering the amount of features it has. The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 
-<p align="center">
-  <img src="/images/bitwarden.png" alt="Bitwarden"/>
-</p>
+For more advanced security, an encrypted offline password manager will give you full control over your data. KeePass is a popular choice that works on desktops as well as mobile. The only drawback with this is that it may be less convenient for some, and it will be up to you to back it up, and store it securely
+
+## Enable 2-Factor Authentication
+
+2FA is when you must provide both something you know (a password or passphrase) and something you have (such as a code on your phone) to log in. This means that if anyone has your password through phishing, malware, or a data breach, they will have no way to able to log into your account. It's easy to get started, download an authenticator app onto your phone such as Google Authenticator and go to your account security settings and follow the steps to enable 2FA. Most applications and accounts have this feature. Next time you log in on a new device, you will be prompted for the code that displays in the app on your phone. This works without an internet connection and the code usually changes every 30-seconds.
+
+Many password managers are able to generate 2FA codes for you to log into the account you're trying to access. It is not recommended to use your password manager as your 2FA authenticator as well, it could become a single point of failure if you are compromised. Instead, use a dedicated authenticator app such as Google Authenticator on your phone or laptop.
 
 ## Here are a few guidelines for creating strong passwords to keep your information secure
 
@@ -42,7 +45,7 @@ The only drawback is that the client desktop version is very basic, but it still
 -	Your password should be at least 12 characters long. Password should consist of lowercase and uppercase letters, numbers, and symbols. 
 -	Do not use personal information such as your name, age, date of birth, family members, pets, or any personal details such as favourite songs when constructing your password.
 -	Avoid consecutive keyboard combinations (i.e., qwerty or asdfg).
--	Make sure no one  watches while you enter your password. If somebody is, ask them to look away or move away. Shoulder surfing is a common method of social engineering. 
+-	Make sure no one watches while you enter your password. If somebody is, ask them to look away or move away. Shoulder surfing is a common method of social engineering. 
 -	Always log off/sign out if you leave your device for the day if not in your personal home – logging off will help ensure that no one uses your system for malicious purposes. 
 -	Avoid entering your password on computers you don't control – they may have malicious applications installed to steal your password or have keyloggers installed on them.
 -	Avoid entering passwords when connected to unsecured Wi-Fi connections (like at an airport or coffee shop) – hackers can intercept and capture your passwords and data over unsecured connections. Avoid connecting to public networks in general. 

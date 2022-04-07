@@ -26,11 +26,11 @@ You should always maintain strong passwords for all your devices and accounts. A
 
 You should consider using a password manager because that is one of the best defences against breaches. A password manager is the best choice if you have many different accounts on multiple platforms and devices. It helps you avoid re-using passwords.
 
-There are many different managers such as 1Password, LastPass or Bitwarden. It will help you to remember all your passwords and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in a known hack or breach in the past or alert you when a breach happens in the future.
+There are many different managers such as 1Password, LastPass or Bitwarden. These managers help you to remember all your passwords by saving them and another benefit password managers have is that they often tie into breach services such as [HaveIBeenPwned](https://haveibeenpwned.com) to notify you if your credentials have appeared in known hacks or breaches in the past or alert you when a breach happens in the future.
 
 There are many great paid password managers but if you would prefer a free manager, I can recommend Bitwarden because their free tier is great considering the amount of features it has. The only drawback is that the client desktop version is very basic, but it still works perfectly fine. 
 
-For more advanced security, an encrypted offline password manager will give you full control over your data. KeePass is a popular choice that works on desktops as well as mobile. The only drawback with this is that it may be less convenient for some, and it will be up to you to back it up, and store it securely
+For more advanced security, an encrypted offline password manager will give you full control over your data. KeePass is a popular choice that works on desktops as well as mobile. The only drawback with this is that it may be less convenient for some, and it will be up to you to back it up, and store it securely.
 
 ## Enable 2-Factor Authentication
 

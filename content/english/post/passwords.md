@@ -20,8 +20,7 @@ Picking a good password is easier than most people think. You need to think abou
 Secondly, can your password be dictionary cracked? If your password is too short or contains dictionary words or can be found in word lists, then it can be cracked through brute force or guessed by someone. The best way to make a strong password is by making it long or consider using a 'passphrase' made up of many words. Using a password generator to create a long, random password can also be beneficial. Use https://www.security.org/how-secure-is-my-password/ to get an idea of how quickly common passwords can be cracked. 
 
 An example of a good password would be something like 'h0rs3st@ble!$'. This would take too long to crack for attackers, which is great. 
-You should always maintain strong passwords for all your devices and accounts. Always avoid re-using passwords which can be one of the easiest methods bad actors have of gaining access to your other accounts. 
-If one account were to get hacked, they would use that password on your other accounts and may get lucky. It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. Re-using passwords is just as bad as a bad password. 
+You should always maintain strong passwords for all your devices and accounts. Always avoid re-using passwords which can be one of the easiest methods attackers have of gaining access to your other accounts. If one account were to get hacked, they would use that password on your other accounts and may get lucky. It is getting easier to use this method with the cost of high-spec computing prices dropping more each year. Re-using passwords is just as bad as a bad password. 
 
 ## Use a Secure Password Manager
 

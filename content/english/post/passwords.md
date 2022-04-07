@@ -15,7 +15,7 @@ Password security is an important subject to consider and the first line of defe
 
 ## So how do you choose a good password?
 
-Picking a good password is easier than most people think. You need to think about 2 main things when choosing a password, firstly, is your password long enough and complex enough that it becomes harder to brute force crack it? Generally, you want to have 12 characters and above, I usually stick to 12 - 15 characters. Anything below 8 characters can be cracked in minutes. 
+Picking a good password is easier than most people think. You need to think about 2 main factors when choosing a password, firstly, is your password long enough and complex enough that it becomes harder to brute force crack it? Generally, you want to have 12 characters and above, I usually stick to 12 - 15 characters. Anything below 8 characters can be cracked in minutes. 
 
 Secondly, can your password be dictionary cracked? If your password is too short or contains dictionary words or can be found in word lists, then it can be cracked through brute force or guessed by someone. The best way to make a strong password is by making it long or consider using a 'passphrase' made up of many words. Using a password generator to create a long, random password can also be beneficial. Use https://www.security.org/how-secure-is-my-password/ to get an idea of how quickly common passwords can be cracked. 
 

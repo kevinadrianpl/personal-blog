@@ -5,7 +5,7 @@ projectsitems:
       - name: Project 1
         image: '/images/projects/code.jpg'
         link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et magna aliqua. Ut minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Lorem ipsum dolor sit amet, sed tempor incididunt ut labore et magna aliqua. Ut minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         tags:
           - Tag 1
           - Tag 2

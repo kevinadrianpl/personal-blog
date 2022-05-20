@@ -15,7 +15,7 @@ projectsitems:
       - name: Project 2
         image: '/images/projects/code.jpg'
         link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod incididunt ut labore et aliqua. Ut ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod ut labore et aliqua. Ut ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         status: 'On Hold'
         tags:
           - Tag 1
